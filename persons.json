@@ -1,0 +1,7 @@
+[
+  { "id": 1, "fname": "aya", "lname": "mohamed", "age": "21", "city": "Bani-suef" },
+  { "id": 2, "fname": "mohamed", "lname": "saad", "age": "50", "city": "Beba" },
+  { "id": 3, "fname": "eman", "lname": "mohamed", "age": "40", "city": "Beba" },
+  { "id": 5, "fname": "ahmed", "lname": "saad", "age": "19", "city": "cairo" },
+  { "id": 7, "fname": "omar", "lname": "hossam", "age": "9", "city": "giza" }
+]
